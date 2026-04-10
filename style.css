@@ -1,0 +1,50 @@
+
+
+body{
+    background-image: url(https://jaring.id/wp-content/uploads/2023/05/Perkebunan-sawit-di-tengah-hutan-lindung-scaled.jpg);
+}
+
+nav{
+    background-color: aqua;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px gray;
+}
+
+nav ul{
+    padding-inline: 4rem;
+    display: flex;
+    gap: 20px;
+}
+
+nav li{
+    list-style-type: none;
+}
+
+nav a{
+    font-size: 25px;
+}
+
+nav a:hover{
+    color: darkolivegreen;
+}
+
+div{
+    width: 300px;
+    background-color: darkcyan;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    margin: 50px auto;
+    box-shadow: 0 4px 8px grey;
+}
+
+div img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+}
