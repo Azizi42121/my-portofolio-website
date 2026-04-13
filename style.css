@@ -9,7 +9,7 @@
 }
 
 body{
-    background-image: url(https://jaring.id/wp-content/uploads/2023/05/Perkebunan-sawit-di-tengah-hutan-lindung-scaled.jpg);
+    background-image: url(img/background.jpg);
     background-attachment: fixed;
     margin: 0;
     padding: 0;
@@ -46,7 +46,7 @@ nav a:hover{
 
 .profile_card{
     width: 300px;
-    background-color: darkcyan;
+    background-color: rgba(0, 255, 255,0.3);
     border-radius: 20px;
     padding: 20px;
     text-align: center;
