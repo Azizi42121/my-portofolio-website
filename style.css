@@ -1,6 +1,6 @@
 *{
     font-family: 'Poppins', Georgia;
-    color: #2d3436;
+    color:#ffffff;
     font-size: 1.1rem;
 }
 
@@ -20,9 +20,9 @@ nav{
     position: sticky;
     top: 0;
     z-index: 999;
-    background-color: rgba(0, 255, 255,0.3);
+    background-color: rgba(18, 18, 18, 0.3);
     padding: 10px;
-    box-shadow: 0 4px 8px gray;
+    box-shadow: 0 4px 8px #00E5FF;
     backdrop-filter: blur(10px);
 }
 
@@ -47,12 +47,12 @@ nav a:hover{
 
 .profile_card{
     width: 300px;
-    background-color: rgba(0, 255, 255,0.3);
+    background-color: rgba(30, 30, 30, 0.8);
     border-radius: 20px;
     padding: 20px;
     text-align: center;
     margin: 50px auto;
-    box-shadow: 0 4px 8px grey;
+    box-shadow: 0 4px 8px #00E5FF;
     font-family: "Poppins", sans-serif;
 }
 
@@ -72,8 +72,8 @@ nav a:hover{
 }
 
 .card{
-    box-shadow: 0 4px 8px darkslategrey;
-    background-color: aliceblue;
+    box-shadow: 0 4px 8px #00E5FF;
+    background-color: rgba(30, 30, 30, 0.8);
     border-radius: 20px;
     padding: 20px;
     margin-bottom: 75px;
@@ -84,7 +84,7 @@ nav a:hover{
     margin-top: -48px;
     margin-left: -20px;
     border-radius: 15px;
-    background-color: aliceblue;
+    background-color: rgba(30, 30, 30, 0.8);
     padding: 15px;
     padding-right: 30px;
     position: relative;
@@ -161,7 +161,7 @@ nav a:hover{
 footer{
     text-align: center;
     padding: 20px;
-    background-color: aliceblue;
+    background-color: rgba(30, 30, 30, 0.8);
     font-weight: bold;
 }
 
